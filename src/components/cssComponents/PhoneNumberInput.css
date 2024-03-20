@@ -1,0 +1,55 @@
+/* PhoneNumberInput.css */
+
+.phone-number-container {
+    max-width: 450px;
+    margin: 250px auto;
+    padding: 50px;
+    border-radius: 20px;
+    background-color: #f3f3f39d;
+    box-shadow: 0 0 10px rgba(12, 12, 12, 0.836);
+  }
+  
+  .phone-number-header {
+    text-align: center;
+    font-size: 30px;
+    color: #131212;
+  }
+  
+  .input-container {
+    margin-bottom: 20px;
+    padding: 20px;
+  }
+  
+  label {
+    display: black;
+    margin-bottom: 5px;
+    font-weight: bold;
+    
+  }
+  
+  .input5 {
+    width: 200px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ece6e6;
+    margin: auto 100px;
+    box-shadow: 0 0 10px rgb(243, 240, 240);
+  }
+  
+  .next-button {
+    width: 35%;
+    padding: 10px;
+    margin: auto 150px;
+    border: none;
+    border-radius: 10px;
+    background-color: #3d3e49;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .next-button:hover {
+    background-color: #85868fd8;
+  }
+  
